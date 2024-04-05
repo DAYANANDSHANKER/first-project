@@ -1,0 +1,140 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(orissa.jpg);
+    height: 95vh;
+    background-size: cover;   
+}
+
+
+.info{
+    background-color: black;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 20px 30px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 30px;
+    
+}
+.info1{
+    background-imae: url(a1.jpg);
+    background-color:rgba(0,0,0,0.8);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+
+
+}
+.shift{
+    margin-left: 70px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.info2{
+    backgrond-image: url(a1.jpg);
+    background-color:rgba(8, 8, 8, 0.7);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.shift1{
+    margin-left: 170px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info3{
+    backgrund-image: url(a1.jpg);
+    background-color:rgba(8, 8, 8, 0.7);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+
+}
+.shift2{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info4{
+    backgrond-image: url(a1.jpg);
+    background-color:rgba(8, 8, 8, 0.7);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 25px;
+    border-radius: 20px;
+
+}
+.shift3{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info5{
+    backgrond-image: url(a1.jpg);
+    background-color:rgba(8, 8, 8, 0.7);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 25px;
+    border-radius: 20px;
+
+}
+.shift4{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info6{
+    backgrond-image: url(a1.jpg);
+    background-color:rgba(8, 8, 8, 0.7);
+    height: 15vh;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-top: 25px;
+    border-radius: 20px;
+
+}
+.shift5{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
